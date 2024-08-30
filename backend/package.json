@@ -15,7 +15,7 @@
     "start": "node server.js",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Rajveer Singh",
+  "author": "Rishav Ranjan",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
